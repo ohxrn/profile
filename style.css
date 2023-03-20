@@ -1,0 +1,328 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    position: relative;
+    left: 103px;
+    top: 24px;
+    background-color: aqua;
+    border-color: black;
+    width: 100px;
+    height: 45px;
+}
+.color {
+    color: aliceblue;
+
+}
+.headerContainer {
+    display: flex;
+    margin-left: 244px;
+min-height: 99px;
+background-color: rgb(0, 0, 0);
+}
+.container1 {
+background-color: rgb(0, 0, 0);
+min-height: 99px;
+flex: 3;
+display: flex;
+
+}
+.container2 {
+    
+background-color: rgb(0, 0, 0);
+min-height: 99px;
+flex:2;
+}
+
+.flic5 {
+width: 30px;
+padding: 10px;
+
+
+}
+.final1 {
+    position: relative;
+    left: 66px;
+    top:18px;
+}
+.bottom {
+min-height: 55px;
+background-color: rgb(255, 255, 255);
+
+
+}
+a {
+    position: relative;
+    left: 66;
+}
+.geek {
+    width: 35px;
+    height: 35px;
+}
+.flicc {
+    position: relative;
+    top:12px;
+}
+.circle {
+    margin: 0;
+    padding: 0;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgb(169, 169, 169);
+}
+.another {
+    width:35px;
+    height: 35px;
+}
+.cont1 {
+
+    display: flex;
+    
+    background-color: rgb(255, 255, 255);
+}
+
+.spec {
+
+    display: flex;
+    flex: 1.5;
+    
+    background-color: rgb(255, 255, 255);
+
+}
+.contin {
+    display: flex;
+}
+.spec2 {
+    flex: 1;
+    display: flex;
+    
+    justify-content:space-around;
+    
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+.geek {
+    min-height: 5px;
+}
+
+.one2 {
+    position: relative;
+    bottom: 34px;
+    right: 3px;
+    color: white;
+}
+.one {
+    position: relative;
+    bottom: -3px;
+    right: -6px;
+    color: white;
+}
+
+.req {
+    padding-top: 25px;
+    padding-left: 5px;
+    display: flex;
+
+    background-color: black;
+}
+
+.two {
+    position: relative;
+    left: 7px;
+    color: rgb(253, 253, 255);
+    bottom: 14px;
+    font: size 0.1;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.sec {
+    padding: 35px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header2 {
+    min-height: 70px;
+    background-color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    padding: 25px;
+
+}
+
+.flexed {
+    display: flex;
+
+}
+
+.border {
+    border: 5px solid rgb(131, 127, 127);
+}
+
+p {
+    position: relative;
+    left: 19px;
+    bottom: 11px;
+}
+
+.pic2 {
+    width: 15px;
+    height: 26px;
+}
+
+h4 {
+    position: relative;
+    top: 15px;
+    right: 35px;
+}
+
+.miniFlex {
+    position: relative;
+    bottom: 15px;
+    left: 15px;
+
+}
+
+h1 {
+    margin: 15px;
+    margin-top: 35px;
+}
+
+img {
+    width: 95px;
+}
+
+.image {
+    position: absolute;
+    top: -50px;
+    left: 45px;
+}
+
+.header {
+    min-height: 100px;
+    background-color: rgb(0, 5, 4);
+    position: sticky;
+    margin-bottom: 75px;
+}
+
+.main {
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+}
+
+.minicolumn {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+a {
+    position: relative;
+    top: 1px;
+    right: 30px;
+}
+
+.column1 {
+    min-height: 200px;
+    background-color: rgb(255, 255, 255);
+    flex: 3;
+    align-self: flex-start;
+
+}
+
+.column2 {
+    position: relative;
+    bottom: 130px;
+    min-height: 200px;
+    background-color: rgb(255, 255, 255);
+   
+    flex: 1.4;
+}
+
+.gear {
+    position: relative;
+    width: 30px;
+    top: 13px;
+    right: 40px;
+}
+
+h5 {
+    color: gray;
+    font-size: 1.1rem;
+}
+
+.jane {
+
+    min-width: 250px;
+    background-color: rgb(255, 255, 255);
+
+    margin-bottom: 20px;
+
+}
+
+.janeHeader {
+    min-height: 100px;
+    background-color: aqua;
+
+
+
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 1.1rem;
+}
+
+.education {
+    margin-top: 25px;
+    background-color: rgb(255, 255, 255);
+    min-height: 350px;
+
+
+}
+
+.requests {
+    position: relative;
+    top: 77px;
+    
+    background-color: rgb(28, 213, 219);
+    margin: 0 auto;
+
+}
+.requests1 {
+    position: relative;
+    
+    top: 127px;
+    
+    background-color: rgb(28, 213, 219);
+    margin: 0 auto;
+
+}
+.connections {
+    margin-top: 50px;
+    min-height: 450px;
+    background-color: rgb(219, 28, 181);
+}
